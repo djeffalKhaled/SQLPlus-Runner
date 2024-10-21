@@ -10,4 +10,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Added
 
-- v1.0 Main release of SQLPlus Runner
+- v0.1.0 Main release of SQLPlus Runner
+- v0.1.1 Added an icon and minor fixes
+- v0.1.2 Terminal reinitialisation 

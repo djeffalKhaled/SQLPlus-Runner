@@ -14,8 +14,7 @@ Make sure you have SQLplus configured correctly and your database service is run
 - Press Execute in SQLplus seen in the top right or alternatively click CTRL+SHIFT+P and search for it
 
 ## Release Notes
-
-### v0.1.0
-Initial release of SQLPlus Runner
-
+- v0.1.0 Main release of SQLPlus Runner
+- v0.1.1 Added an icon and minor fixes
+- v0.1.2 Terminal reinitialisation 
 
