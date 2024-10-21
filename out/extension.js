@@ -58,7 +58,6 @@ function activate(context) {
     });
     context.subscriptions.push(disposable);
 }
-// Unpublished changes set for v1.0.2 => Terminals
 // Two suggestions either I delete all of them as it's defined now or call the above createTerminal once
 function clearTerminalsBeside(t) {
     const terminals = vscode.window.terminals;
