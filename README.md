@@ -1,5 +1,5 @@
 ## Features
-Directly runs SQLPlus and executes your Oracle SQL queries showing you the result in your terminal. 
+Directly runs SQLPlus and executes your Oracle SQL queries showing you the result in your VSCode terminal. 
 Useful for testing your queries without having to deal with login or writing the execution scripts ect.
 
 ## Requirements
