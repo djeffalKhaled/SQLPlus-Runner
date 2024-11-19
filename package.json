@@ -4,7 +4,7 @@
   "publisher": "Faiztechnics",
   "description": "Takes the SQL commands written in VS Code and executes them in SQLPlus automatically",
   "icon": "Images/DBIcon.png",
-  "version": "1.0.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.94.0"
   },
