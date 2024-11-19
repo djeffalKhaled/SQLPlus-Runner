@@ -14,3 +14,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - v0.1.1 Added an icon and minor fixes
 - v0.1.2 Terminal reinitialisation 
 - v0.1.3 Terminals now update correctly + New icon
+- v0.1.4 Minor: Fixed main extension icon visibility
