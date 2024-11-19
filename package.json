@@ -6,7 +6,7 @@
   "icon": "Images/DBIcon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/sqlplus-runner.git"
+    "url": "https://github.com/djeffalKhaled/SQLPlus-Runner/"
   },
   "version": "1.0.4",
   "engines": {
