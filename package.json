@@ -17,7 +17,8 @@
     "commands": [
       {
         "command": "sqlplus-runner.executeInSQLPlus",
-        "title": "Execute in SQLPlus"
+        "title": "Execute in SQLPlus",
+        "icon": "Images/DBIcon-editor.png"
       }
     ],
     "menus": {
@@ -26,7 +27,7 @@
           "command": "sqlplus-runner.executeInSQLPlus",
           "group": "navigation",
           "title": "Run SQLPlus",
-          "icon": "Images/DBIcon.png"
+          "icon": "Images/DBIcon-editor.png"
         }
       ]
     }
